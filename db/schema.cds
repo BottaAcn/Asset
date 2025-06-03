@@ -6,5 +6,5 @@ entity Asset1 {
         INFOAREA: String(30);
         OBJ_TYPE: String(10);
         COMPLEXITY: String(6);
-        COUNT: Integer
+        COUNT: String(100)
 }
